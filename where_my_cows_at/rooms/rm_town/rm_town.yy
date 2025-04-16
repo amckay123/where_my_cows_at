@@ -2656,7 +2656,7 @@
           15,13,-186,14,2,15,25,-186,26,1,27,
         ],"TileDataFormat":1,},"tilesetId":{"name":"tile_grass","path":"tilesets/tile_grass/tile_grass.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"tiles_hill","depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"tiles_hill","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":94,"SerialiseWidth":188,"TileCompressedData":[
-          1,1,-22,2,-4,-2147483648,-160,2,2,3,13,-186,-2147483648,2,15,13,-186,-2147483648,2,15,13,-186,-2147483648,
+          1,1,-23,2,-3,-2147483648,-160,2,2,3,13,-186,-2147483648,2,15,13,-186,-2147483648,2,15,13,-186,-2147483648,
           2,15,13,-186,-2147483648,2,15,13,-186,-2147483648,2,15,13,-186,-2147483648,2,15,13,-186,-2147483648,
           2,15,13,-186,-2147483648,2,15,13,-186,-2147483648,2,15,13,-186,-2147483648,2,15,13,-186,-2147483648,
           2,15,13,-186,-2147483648,2,15,13,-186,-2147483648,2,15,13,-186,-2147483648,2,15,13,-186,-2147483648,
