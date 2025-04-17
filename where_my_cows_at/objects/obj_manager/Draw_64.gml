@@ -11,10 +11,10 @@ draw_set_alpha(l27FD63FA_0 / $ff);
 /// @DnDHash : 1503D25D
 /// @DnDArgument : "x1" "5"
 /// @DnDArgument : "y1" "5"
-/// @DnDArgument : "x2" "73"
-/// @DnDArgument : "y2" "22"
+/// @DnDArgument : "x2" "135"
+/// @DnDArgument : "y2" "42"
 /// @DnDArgument : "fill" "1"
-draw_rectangle(5, 5, 73, 22, 0);
+draw_rectangle(5, 5, 135, 42, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
@@ -35,11 +35,10 @@ draw_set_font(font_score);
 /// @DnDVersion : 1
 /// @DnDHash : 2B7B6179
 /// @DnDArgument : "x" "17"
-/// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "12"
-/// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "caption" ""Cows""
-draw_text(x + 17, y + 12, string("Cows") + "");
+/// @DnDArgument : "var" "global.cow_num"
+draw_text(17, 12, string("Cows") + string(global.cow_num));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprites_Stacked
 /// @DnDVersion : 1

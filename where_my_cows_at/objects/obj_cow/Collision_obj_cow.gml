@@ -7,5 +7,5 @@ instance_destroy();
 /// @DnDVersion : 1
 /// @DnDHash : 6E224AAE
 /// @DnDArgument : "expr" "1"
-/// @DnDArgument : "var" "cow_num"
-cow_num = 1;
+/// @DnDArgument : "var" "global.cow_num"
+global.cow_num = 1;

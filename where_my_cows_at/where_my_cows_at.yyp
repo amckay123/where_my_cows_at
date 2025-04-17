@@ -35,6 +35,10 @@
   "name":"where_my_cows_at",
   "resources":[
     {"id":{"name":"font_score","path":"fonts/font_score/font_score.yy",},},
+    {"id":{"name":"obj_arrow_down","path":"objects/obj_arrow_down/obj_arrow_down.yy",},},
+    {"id":{"name":"obj_arrow_left","path":"objects/obj_arrow_left/obj_arrow_left.yy",},},
+    {"id":{"name":"obj_arrow_right","path":"objects/obj_arrow_right/obj_arrow_right.yy",},},
+    {"id":{"name":"obj_arrow_up","path":"objects/obj_arrow_up/obj_arrow_up.yy",},},
     {"id":{"name":"obj_char","path":"objects/obj_char/obj_char.yy",},},
     {"id":{"name":"obj_cow","path":"objects/obj_cow/obj_cow.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
@@ -42,7 +46,6 @@
     {"id":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},},
     {"id":{"name":"obj_tile","path":"objects/obj_tile/obj_tile.yy",},},
     {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},},
-    {"id":{"name":"rm_forest","path":"rooms/rm_forest/rm_forest.yy",},},
     {"id":{"name":"rm_town","path":"rooms/rm_town/rm_town.yy",},},
     {"id":{"name":"snd_bird","path":"sounds/snd_bird/snd_bird.yy",},},
     {"id":{"name":"snd_forest_walk","path":"sounds/snd_forest_walk/snd_forest_walk.yy",},},
@@ -53,6 +56,10 @@
     {"id":{"name":"snd_town_walk","path":"sounds/snd_town_walk/snd_town_walk.yy",},},
     {"id":{"name":"snd_whoosh","path":"sounds/snd_whoosh/snd_whoosh.yy",},},
     {"id":{"name":"spr_a","path":"sprites/spr_a/spr_a.yy",},},
+    {"id":{"name":"spr_arrow_down","path":"sprites/spr_arrow_down/spr_arrow_down.yy",},},
+    {"id":{"name":"spr_arrow_left","path":"sprites/spr_arrow_left/spr_arrow_left.yy",},},
+    {"id":{"name":"spr_arrow_right","path":"sprites/spr_arrow_right/spr_arrow_right.yy",},},
+    {"id":{"name":"spr_arrow_up","path":"sprites/spr_arrow_up/spr_arrow_up.yy",},},
     {"id":{"name":"spr_char_down","path":"sprites/spr_char_down/spr_char_down.yy",},},
     {"id":{"name":"spr_char_idle","path":"sprites/spr_char_idle/spr_char_idle.yy",},},
     {"id":{"name":"spr_char_left","path":"sprites/spr_char_left/spr_char_left.yy",},},
@@ -91,7 +98,6 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_town","path":"rooms/rm_town/rm_town.yy",},},
-    {"roomId":{"name":"rm_forest","path":"rooms/rm_forest/rm_forest.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
