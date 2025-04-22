@@ -1,11 +1,3 @@
-/// @DnDAction : YoYo Games.Common.If_Variable
-/// @DnDVersion : 1
-/// @DnDHash : 4F0A0FCF
-/// @DnDArgument : "var" "global.log_health"
-/// @DnDArgument : "op" "3"
-/// @DnDArgument : "value" "1"
-if(global.log_health <= 1){}
-
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 3713E2FA
