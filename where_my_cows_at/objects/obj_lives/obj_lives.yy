@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cow",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_char","path":"objects/obj_char/obj_char.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_lives",
+  "eventList":[],
   "managed":true,
-  "name":"obj_cow",
+  "name":"obj_lives",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cow",
-    "path":"sprites/spr_cow/spr_cow.yy",
+    "name":"spr_lives",
+    "path":"sprites/spr_lives/spr_lives.yy",
   },
   "spriteMaskId":null,
   "visible":true,
