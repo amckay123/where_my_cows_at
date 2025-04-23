@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_whoosh",
+  "%Name":"sfx_town_walk",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.115941,
-  "name":"snd_whoosh",
+  "duration":59.14122,
+  "name":"sfx_town_walk",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_whoosh.wav",
+  "soundFile":"sfx_town_walk.mp3",
   "type":0,
   "volume":1.0,
 }

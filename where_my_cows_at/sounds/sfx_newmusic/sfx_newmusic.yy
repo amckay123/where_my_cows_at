@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_bird",
+  "%Name":"sfx_newmusic",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":70.47835,
-  "name":"snd_bird",
+  "duration":77.871,
+  "name":"sfx_newmusic",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_bird.mp3",
+  "soundFile":"sfx_newmusic.mp3",
   "type":0,
   "volume":1.0,
 }

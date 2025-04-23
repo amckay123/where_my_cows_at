@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_town_walk",
+  "%Name":"sfx_forest_walk",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":59.14122,
-  "name":"snd_town_walk",
+  "duration":28.56,
+  "name":"sfx_forest_walk",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_town_walk.mp3",
+  "soundFile":"sfx_forest_walk.mp3",
   "type":0,
   "volume":1.0,
 }

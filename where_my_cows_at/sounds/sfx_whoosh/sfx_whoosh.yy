@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_moo",
+  "%Name":"sfx_whoosh",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":2.863991,
-  "name":"snd_moo",
+  "duration":1.115941,
+  "name":"sfx_whoosh",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_moo.wav",
+  "soundFile":"sfx_whoosh.wav",
   "type":0,
   "volume":1.0,
 }
