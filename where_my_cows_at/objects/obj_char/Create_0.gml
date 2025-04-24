@@ -9,6 +9,6 @@ audio_play_sound(sfx_newmusic, 0, 1, 1.0, undefined, 1.0);
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 59B004D7
-/// @DnDArgument : "expr" "1.5"
+/// @DnDArgument : "expr" "2.5"
 /// @DnDArgument : "var" "movespeed"
-movespeed = 1.5;
+movespeed = 2.5;

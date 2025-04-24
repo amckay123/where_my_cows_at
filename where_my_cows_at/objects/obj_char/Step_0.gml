@@ -7,7 +7,14 @@ if(lives <= 0){	/// @DnDAction : YoYo Games.Game.Restart_Game
 	/// @DnDVersion : 1
 	/// @DnDHash : 5CBFB27C
 	/// @DnDParent : 73600A89
-	game_restart();}
+	game_restart();
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 52B9D985
+	/// @DnDParent : 73600A89
+	/// @DnDArgument : "var" "score"
+	score = 0;}
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
