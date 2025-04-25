@@ -1,5 +1,5 @@
 {
-  "$GMProject":"v1",
+  "$GMProject":"",
   "%Name":"where_my_cows_at",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -26,7 +26,6 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -46,6 +45,7 @@
     {"id":{"name":"obj_fountain","path":"objects/obj_fountain/obj_fountain.yy",},},
     {"id":{"name":"obj_lives","path":"objects/obj_lives/obj_lives.yy",},},
     {"id":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},},
+    {"id":{"name":"obj_real_left_arrow","path":"objects/obj_real_left_arrow/obj_real_left_arrow.yy",},},
     {"id":{"name":"obj_tile","path":"objects/obj_tile/obj_tile.yy",},},
     {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},},
     {"id":{"name":"obj_winscreen","path":"objects/obj_winscreen/obj_winscreen.yy",},},
